@@ -1,0 +1,43 @@
+/G++官方程序
+/Wiki:https://github.com/dakadayyds/GoboOS/tree/main/程序编写指南/Goboscratch程序
+/ready
+ready()
+{
+addsprite("Cat","bcaaa8547a07cfe572c0967ba829e99d.svg",96,101,true)
+addbg("?")
+addvar("bg")
+bg=111
+bg*=111
+sin1=sin(114514)
+obj=Object
+
+/↓一种在G++引入的写法，详见Wiki
+sp=Cat
+fuc=w1222
+}
+/main
+greenflag()
+{
+sp.x+=22
+obj.w=111
+if(true)
+{
+fuc(sin1,555)
+}
+/Your code is here...
+}
+w1222(qq,qw)
+{
+Cat.rmove(22)
+Cat.say("hello！！！",2)
+ask("What's your name?")
+hellobro=concat("hello ",answer)
+Cat.say(hellobro,2)
+wait(0.8)
+Cat.think(qq,2)
+wait(2)
+}
+when(true)
+{
+M()
+}

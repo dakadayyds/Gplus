@@ -1,0 +1,10 @@
+cos
+sin
+tan
+asin
+acos
+atan
+abs
+square_root
+half_adjust
+log

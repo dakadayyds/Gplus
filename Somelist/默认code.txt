@@ -1,0 +1,34 @@
+ready()
+{
+/ready
+}
+/main
+greenflag()
+{
+/Your code is here...
+}
+cloner()
+{
+/Your code is here...
+}
+when(true)
+{
+/Your code is here...
+}
+ready()
+{
+/ready
+}
+/main
+greenflag()
+{
+/Your code is here...
+}
+cloner()
+{
+/Your code is here...
+}
+when(true)
+{
+/Your code is here...
+}
